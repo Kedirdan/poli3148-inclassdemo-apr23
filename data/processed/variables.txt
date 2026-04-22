@@ -1,0 +1,17 @@
+V-Dem v16 — variables kept for the Europe dashboard
+============================================================
+
+country_name
+country_id
+country_text_id
+year
+historical_date
+v2x_polyarchy
+v2x_libdem
+v2x_partipdem
+v2x_delibdem
+v2x_egaldem
+v2x_freexp_altinf
+v2x_rule
+v2xcs_ccsi
+v2x_regime
